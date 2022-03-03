@@ -15,9 +15,9 @@ Front-end:
 
 ## Instalando Dependências
 
-``` 
-npm install
-``` 
+  ``` 
+    npm install
+  ``` 
 ## Executando aplicação
 
 * Para rodar o front-end:
